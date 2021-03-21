@@ -1,0 +1,53 @@
+------ GIT ---------
+
+git branching stratergy
+git rebase
+git merge
+how do you add users in git branching
+what is webhooks
+what is difference between maintainers and developers
+how do you reset commits
+how do you resolve merge conflicts
+diff between rebase and merge
+
+----- Jenkins ------
+
+Jenkins file - diff between scripted and decalrative
+what is the pulgin to send email notifications if failure or success
+what is decalrative pipeline
+how do you migrate jenkins jobs form one server another
+jenkins default port
+how to run jenkins in different port - /conf/
+
+--------  AWS -----------
+
+AWS Application Load balancer and Network Load balancer
+if you want to use static IP what Load balancer you would use
+Private subnet servers how can it connect to Internet
+what is subnet
+How to take snapshots from EBS and store in S3 buckets
+
+------ Docker -------
+
+can you have multiple images in single docker file
+what is port forwarding in Docker
+Diff between brdige and overlay network in docker
+what is entry point
+Diff between ADD and COPY
+how do you build a docker file
+
+------- Kubernetes --------
+
+diff between Replicationsets and replicationcontroller
+if www.facebook.com application is down how will you troubleshoot
+what is config maps
+how do you Autoscale in kuberenetes.
+how do you find the cpu percentage or performance of a pod
+
+-------- Ansible -----------
+
+what is roles in ansible
+explain httpd playbook
+what is inventory in Ansible
+what is Pull and push based mechanism
+Does Ansible has agent
