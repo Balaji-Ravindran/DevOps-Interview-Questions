@@ -29,6 +29,7 @@ if you want to use static IP what Load balancer you would use
 Private subnet servers how can it connect to Internet
 what is subnet
 How to take snapshots from EBS and store in S3 buckets
+what if I lost my access key file
 
 ------ Docker -------
 
@@ -54,3 +55,10 @@ explain httpd playbook
 what is inventory in Ansible
 what is Pull and push based mechanism
 Does Ansible has agent
+
+----- Maven -------
+
+maven repositories
+what is maven snapshot 
+diff between snapshot and release
+mvn clean
