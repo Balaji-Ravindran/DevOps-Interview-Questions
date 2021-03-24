@@ -9,6 +9,8 @@ what is difference between maintainers and developers
 how do you reset commits
 how do you resolve merge conflicts
 diff between rebase and merge
+from which branch do you deployment
+hotfix branch
 
 ----- Jenkins ------
 
@@ -18,6 +20,7 @@ what is decalrative pipeline
 how do you migrate jenkins jobs form one server another
 jenkins default port
 how to run jenkins in different port - /conf/
+what are the build failures you have faced in Jenkins job
 
 --------  AWS -----------
 
