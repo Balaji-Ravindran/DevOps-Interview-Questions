@@ -1,7 +1,13 @@
 How doyou copy files inside a running pod
 
-what is the size of the docker image you are building in your project
+What is the size of the docker image you are building in your project
 
-why recreate stratergy
+Why recreate stratergy in Deployment 
 
-why you are using Jenkins file instead of Free style pipeline
+What is DevOps and what is your understanding
+
+Why you are using Jenkins file instead of Free style pipeline
+
+Difference between Horizontal Pod Scaling (Horizontal Pod Autoscaler - HPA) and Vertical Pod Scaling.
+
+
